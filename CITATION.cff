@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: rag-redteam
+message: If you use this software, please cite it.
+type: software
+authors:
+  - name: saheb26
+    website: https://github.com/saheb26
+repository-code: https://github.com/saheb26/rag-redteam
+url: https://github.com/saheb26/rag-redteam
+abstract: >-
+  Open-source Python CLI that scans retrieval-augmented
+  generation (RAG) pipelines for prompt injection,
+  system-prompt override, and OWASP LLM Top 10 retrieval
+  attacks.
+keywords:
+  - RAG
+  - prompt injection
+  - LLM security
+  - red team
+  - OWASP
+  - vector database
+license: MIT
+version: 0.1.0
+date-released: "2026-10-06"
